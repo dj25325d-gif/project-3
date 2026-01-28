@@ -53,7 +53,7 @@ Exit
 
 ### ➕ Adding Students & Displaying Records
 ![Collector Screenshot](screenshots/collector.png)
-![](images/collector.png)
+![](project-3/manipulator.png)
 
 ### ✏️ Updating, Deleting & Viewing Subjects
 ![Manipulator Screenshot](screenshots/manipulator.png)
